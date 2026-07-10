@@ -44,5 +44,4 @@
 3. website Deployment- 15 minutes.
 4. GitHub upload- 15 minutes.
 5. documentation- 25 minutes.
-6. sudo systemctl status nginx
-7. sudo systemctl restart nginx
+
